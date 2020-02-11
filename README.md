@@ -27,3 +27,7 @@ new coronavirus pneumonia infection model
 | 9-Feb  | 40235 | 39824   | -1.02% |
 | 10-Feb | 42638 | 43152   | 1.21%  |
 | 11-Feb |       | 44934   |        |
+
+
+Reference:
+Yi Li1☯, Xianhong Yin☯, Meng Liang, Xiaoyu Liu, Meng Hao, Yi Wang: A Note on NCP Diagnosis Number Prediction Model.
