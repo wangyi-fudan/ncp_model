@@ -1,6 +1,8 @@
 # ncp_model
 new coronavirus pneumonia infection model
 
+![](Clipboard01.png)
+
 | date   | WHO   | predict | error% |
 | ------ | ----- | ------- | ------ |
 | 21-Jan | 309   |         |        |
