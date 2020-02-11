@@ -29,5 +29,6 @@ new coronavirus pneumonia infection model
 | 11-Feb |       | 44934   |        |
 
 
-Reference:
-Yi Li#, Xianhong Yin#, Meng Liang, Xiaoyu Liu, Meng Hao, Yi Wang*: A Note on NCP Diagnosis Number Prediction Model.
+**Reference:**
+
+Yi Li#, Xianhong Yin#, Meng Liang, Xiaoyu Liu, Meng Hao, Yi Wang*: **A Note on NCP Diagnosis Number Prediction Model.**
