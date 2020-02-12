@@ -26,7 +26,8 @@ new coronavirus pneumonia infection model
 | 8-Feb  | 37251 | 37992   | 1.99%  |
 | 9-Feb  | 40235 | 39824   | -1.02% |
 | 10-Feb | 42708 | 43152   | 1.04%  |
-| 11-Feb |       | 45075   |        |
+| 11-Feb | 44730 | 45075   | 0.77%  |
+| 12-Feb |       | 46632   |        |
 
 
 **Reference:**
